@@ -1,3 +1,36 @@
+*.iml
+.gradle
+/local.properties
+/.idea/caches
+/.idea/libraries
+/.idea/modules.xml
+/.idea/workspace.xml
+/.idea/navEditor.xml
+/.idea/assetWizardSettings.xml
+.DS_Store
+/build
+/captures
+.externalNativeBuild
+.cxx
+local.properties
+*.iml
+.gradle
+/local.properties
+/.idea/caches
+/.idea/libraries
+/.idea/modules.xml
+/.idea/workspace.xml
+/.idea/navEditor.xml
+/.idea/assetWizardSettings.xml
+.DS_Store
+/build
+/captures
+.externalNativeBuild
+.cxx
+local.properties
+(base) sanilveeravu@Sanils-MacBook-Air TopQ % ls -lart ../TopQuizz/.gitignore
+-rw-r--r--  1 sanilveeravu  staff  290 May 19 06:57 ../TopQuizz/.gitignore
+(base) sanilveeravu@Sanils-MacBook-Air TopQ % cat ../TopQuizz/.gitignore
 # Compiled class file
 *.class
 
